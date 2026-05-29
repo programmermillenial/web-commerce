@@ -115,7 +115,7 @@
                                         placeholder="Contoh: ORD-20260525-001" value="{{ request('order_code') }}" required>
                                 </div>
 
-                                <button type="submit" class="btn btn-primary w-100 btn-lg">
+                                <button type="submit" class="btn btn-danger w-100 btn-lg">
                                     <i class="bi bi-search me-1"></i>
                                     Cari Order
                                 </button>
