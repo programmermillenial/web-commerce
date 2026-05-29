@@ -82,7 +82,7 @@ Aplikasi mendukung beberapa jenis database:
 Buka Command Prompt atau Terminal, kemudian masuk ke folder project:
 
 ```bash
-cd D:/laragon/www/webcommerce
+cd C:/laragon/www/webcommerce
 ```
 
 Jalankan perintah berikut:
