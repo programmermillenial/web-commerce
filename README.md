@@ -4,7 +4,7 @@
 
 Pastikan server Anda telah terinstall:
 
-* PHP 8.x atau versi yang sesuai dengan project
+* PHP 8.3 atau lebih terbaru
 * Composer
 * Database (MySQL, PostgreSQL, SQL Server, atau SQLite)
 * Web Server (Laragon, XAMPP, Apache, Nginx, dan lain-lain)
